@@ -1,0 +1,128 @@
+\documentclass[utf8,nocolumnxxxi,nocolumnxxxii]{eskdtext}
+\usepackage{eskdtotal}
+\renewcommand{\tiny}{\fontsize{12}{14}\fontfamily{ftm}\linespread{1.0}\selectfont}
+\newcommand{\initESKD}[1]{
+\ESKDcolumnI{\tiny Пояснительная записка к 
+лабораторной работе по курсу 
+«Вычислительный практикум» по теме 
+«#1»}
+}
+\ESKDcolumnII{Вариант №3}
+\ESKDcolumnIX{ТулГУ гр. 220601}
+\ESKDcolumnXIfI{Белым А.А.}
+\ESKDcolumnXIfII{Ермаков А.С.}
+\pagestyle{empty}
+\usepackage{layout}
+\usepackage{amsmath}
+%\usepackage[left=2.5cm, right=1cm, bottom=1cm, top=1cm]{geometry}
+\parindent=1.0cm
+\footskip=0.2cm
+%\parskip=-0.8cm
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian]{babel}
+%\usepackage{pscyr}
+%\usepackage[compact,center,small]{titlesec}
+%\titlelabel{}
+%\titlespacing{\section}{0.0cm}{-0.3cm}{-0.5cm}
+\usepackage{listingsutf8}
+\usepackage{graphicx}
+%\usepackage{ccaption}
+\usepackage{tabularx}
+\usepackage{array}
+%\captiondelim{ - }
+\renewcommand{\baselinestretch}{1.25}
+\renewcommand{\normalfont}{\fontsize{14}{20}\fontfamily{ftm}\linespread{1.25}\selectfont}
+\renewcommand{\thesection}{\arabic{section}.} 
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}.}
+\ESKDsectStyle{section}{\normalfont\fontfamily{far}\selectfont\bfseries\centering}
+\ESKDsectStyle{subsection}{\normalfont\fontfamily{ftm}\selectfont\bfseries\centering}
+\ESKDsectSkip{subsection}{1.5cm}{0.5cm}
+\newcommand{\maketitlexx}[2]{
+\begin{titlepage}
+\begin{center}\linespread{1}\parskip=0.0cm\normalfont
+\ESKDthisStyle{empty}
+Министерство образования и науки РФ
+
+ФГБОУ ВПО Тульский государственный университитет
+
+\vskip 0pt plus 0.5fil
+КАФЕДРА АВТОМАТИКИ И ТЕЛЕМЕХАНИКИ
+
+\vfill
+\textbf{#1}
+
+\vskip 2cm
+Пояснительная записка 
+
+к лабораторной работе № #2
+
+
+по курсу «Вычислительный практикум»
+
+\vfill
+Вариант № 3
+
+\vfill
+\begin{tabular*}{\textwidth}{ll@{\extracolsep{\fill}}c@{\extracolsep{0pt}}l}
+Выполнил: & студент группы 220601&&Белым~А.А.\\ \cline{3-3}
+								&&\tiny{(подпись)}& 	\\
+Проверил: & к. ф.-м. н., доцент &&Ермаков А.С.\\ \cline{3-3}
+								&&\tiny{(подпись)}& 	\\
+\end{tabular*}
+\vfill
+Тула 2012
+\end{center}
+\end{titlepage}
+}
+\usepackage{float}
+\newcommand{\pic}[4]{
+\renewcommand{\figurename}{\tinyРисунок}
+%\suppressfloats[p]
+\begin{figure}[#4]
+\center
+\includegraphics{#1}
+\caption{\tiny #2}\label{#3}
+\end{figure}
+}
+\newcommand{\tabln}[1]{#1 \\ \hline}
+\newcommand{\tabl}[4]{
+\renewcommand{\tablename}{\hfill \tiny Таблица}
+\begin{table}[#4]
+\caption{\tiny #1}\label{#3}
+\center\normalfont\linespread{1.0}\selectfont
+\vskip -0.5cm 
+\begin{tabular}{|c|c|l|} \hline
+{\bfseries имя}&{\bfseries тип} &\multicolumn{1}{c|}{\bfseries предназначение}  \\ \hline
+#2
+\end{tabular}
+\end{table}
+}
+\newcommand{\ftab}[1]{
+ представлены в таблице \ref{#1}
+}
+\newcommand{\tabbox}[2]{\parbox[t]{#1}{\linespread{0.8}\selectfont #2}}
+\newcommand{\prog}[2]{
+\fontencoding{T2A}
+
+\lstset{basicstyle=\fontsize{9}{11}\fontfamily{fcr}\linespread{1.0}\selectfont,identifierstyle=,keywordstyle=\bfseries,commentstyle=\itshape,stringstyle=\slshape}
+\lstinputlisting[inputencoding=utf8/cp1251,language=#1]{#2}
+}
+\newcommand{\elist}[1]{
+\suppressfloats[t]
+\begin{list}{\arabic{N}.}{\itemindent 0.8cm\addtolength{\itemindent}{\labelwidth}\listparindent 1.0cm\leftmargin 0cm\usecounter{N}}
+
+#1
+\end{list}
+\setcounter{N}{0}}
+
+\makeatletter
+%\renewcommand{\@oddfoot}{{\quad\hfill\quad \thepage}}
+%\renewcommand{\@evenfoot}{{\quad\hfill\quad \thepage}}
+\makeatother
+\newcommand{\ssec}[1]{\section{#1}\hspace*{\parindent}}
+\usepackage{tocloft}
+\tocloftpagestyle{empty}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cfttoctitlefont}{\hfill\fontfamily{far}\selectfont\bfseries}
+\renewcommand{\cftaftertoctitle}{\hfill}

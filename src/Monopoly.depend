@@ -1,0 +1,348 @@
+# depslib dependency file v1.0
+1338366998 source:/home/wolf2105/Monopoly/main.cpp
+	<SDL_net.h>
+	<guichan.hpp>
+	<iostream>
+	"sdl.hpp"
+	"widgets.hpp"
+	"server.hpp"
+	"client.hpp"
+	"core.hpp"
+
+1327168208 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1327168208 /usr/include/SDL/SDL_platform.h
+
+1327168208 /usr/include/SDL/begin_code.h
+
+1327168208 /usr/include/SDL/close_code.h
+
+1327168208 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_keysym.h
+
+1327168208 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1327168208 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327168208 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1338208532 source:/home/wolf2105/Monopoly/sdlwidgets.cpp
+	<SDL_net.h>
+	<guichan.hpp>
+	<iostream>
+	"sdl.hpp"
+	"widgets.hpp"
+	"server.hpp"
+	"client.hpp"
+	"core.hpp"
+
+1338366305 /home/wolf2105/Monopoly/sdl.hpp
+	"server.hpp"
+	<guichan.hpp>
+	<guichan/sdl.hpp>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<SDL_net.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<SDL_rwops.h>
+	"widgets.hpp"
+
+1338360440 /home/wolf2105/Monopoly/widgets.hpp
+	"sdlutf8truetypefont.hpp"
+	"utf8textfield.hpp"
+	"core.hpp"
+	<string>
+	<SDL_net.h>
+
+1326711476 /usr/include/SDL/SDL_net.h
+	"SDL.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1336327861 /home/wolf2105/Monopoly/sdltruetypefont.hpp
+	<map>
+	<string>
+	<SDL/SDL_ttf.h>
+	"guichan/font.hpp"
+	"guichan/platform.hpp"
+
+1336327832 source:/home/wolf2105/Monopoly/sdltruetypefont.cpp
+	"sdltruetypefont.hpp"
+	"guichan/exception.hpp"
+	"guichan/image.hpp"
+	"guichan/graphics.hpp"
+	"guichan/sdl/sdlgraphics.hpp"
+
+1330552280 /usr/include/SDL/SDL_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1336320091 /home/wolf2105/Monopoly/server.cpp
+	<SDL_net.h>
+	<iostream>
+	"core.hpp"
+
+1338366694 /home/wolf2105/Monopoly/core.hpp
+	<SDL.h>
+
+1338365851 source:/home/wolf2105/Monopoly/server.cpp
+	"server.hpp"
+	<time.h>
+
+1338108071 /home/wolf2105/Monopoly/server.hpp
+	<SDL_net.h>
+	<iostream>
+	"server.hpp"
+	"core.hpp"
+
+1302995877 /home/wolf2105/Monopoly/truetypefont.h
+	<guichan/font.hpp>
+	<SDL_ttf/SDL_ttf.h>
+	<SDL/SDL_ttf.h>
+	<SDL_ttf.h>
+	<list>
+	<string>
+
+1336327585 /home/wolf2105/Monopoly/sdlutf8truetypefont.hpp
+	<map>
+	<string>
+	<SDL/SDL_ttf.h>
+	"guichan/font.hpp"
+	"guichan/graphics.hpp"
+	"guichan/image.hpp"
+	"guichan/platform.hpp"
+	"sdltruetypefont.hpp"
+
+1206443320 source:/home/wolf2105/Monopoly/sdlutf8truetypefont.cpp
+	"sdlutf8truetypefont.hpp"
+	"guichan/exception.hpp"
+	"guichan/image.hpp"
+	<guichan/sdl/sdlgraphics.hpp>
+	"utf8.h"
+
+1175866260 /home/wolf2105/Monopoly/utf8.h
+	"utf8/checked.h"
+	"utf8/unchecked.h"
+
+1197830580 /home/wolf2105/Monopoly/utf8/checked.h
+	"core.h"
+	<stdexcept>
+
+1172362560 /home/wolf2105/Monopoly/utf8/core.h
+	<iterator>
+
+1193349780 /home/wolf2105/Monopoly/utf8/unchecked.h
+	"core.h"
+
+1206443169 /home/wolf2105/Monopoly/utf8textfield.hpp
+	<guichan/widgets/textfield.hpp>
+	"utf8stringeditor.hpp"
+
+1206442916 /home/wolf2105/Monopoly/utf8stringeditor.hpp
+	<guichan.hpp>
+
+1206442958 source:/home/wolf2105/Monopoly/utf8stringeditor.cpp
+	<iostream>
+	"utf8stringeditor.hpp"
+	"utf8.h"
+
+1206443168 source:/home/wolf2105/Monopoly/utf8textfield.cpp
+	"utf8textfield.hpp"
+
+1327436330 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1338367216 source:/home/wolf2105/Monopoly/core.cpp
+	"core.hpp"
+
+1338366967 source:/home/wolf2105/Monopoly/sdl.cpp
+	"sdl.hpp"
+	"client.hpp"
+
+1338367397 source:/home/wolf2105/Monopoly/widgets.cpp
+	"widgets.hpp"
+	"sdl.hpp"
+	"client.hpp"
+	<sstream>
+
+1338366516 source:/home/wolf2105/Monopoly/client.cpp
+	"sdl.hpp"
+	"client.hpp"
+	<SDL_net.h>
+
+1338365470 /home/wolf2105/Monopoly/client.hpp
+

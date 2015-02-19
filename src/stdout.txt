@@ -1,0 +1,904 @@
+/1/
+price:60
+rent0:2
+rent1:10
+rent2:30
+rent3:90
+rent4:160
+rent5:250
+house_cost:50
+hotel_cost:50
+mortgage_val:30
+/3/
+price:60
+rent0:4
+rent1:20
+rent2:60
+rent3:180
+rent4:320
+rent5:450
+house_cost:50
+hotel_cost:50
+mortgage_val:30
+/6/
+price:100
+rent0:6
+rent1:30
+rent2:90
+rent3:270
+rent4:400
+rent5:550
+house_cost:50
+hotel_cost:50
+mortgage_val:50
+/8/
+price:100
+rent0:6
+rent1:30
+rent2:90
+rent3:270
+rent4:400
+rent5:550
+house_cost:50
+hotel_cost:50
+mortgage_val:50
+/9/
+price:120
+rent0:8
+rent1:40
+rent2:100
+rent3:300
+rent4:450
+rent5:600
+house_cost:50
+hotel_cost:50
+mortgage_val:60
+/11/
+price:140
+rent0:10
+rent1:50
+rent2:150
+rent3:450
+rent4:625
+rent5:750
+house_cost:100
+hotel_cost:100
+mortgage_val:70
+/13/
+price:140
+rent0:10
+rent1:50
+rent2:150
+rent3:450
+rent4:625
+rent5:750
+house_cost:100
+hotel_cost:100
+mortgage_val:70
+/14/
+price:160
+rent0:12
+rent1:60
+rent2:180
+rent3:500
+rent4:700
+rent5:900
+house_cost:100
+hotel_cost:100
+mortgage_val:80
+/16/
+price:180
+rent0:14
+rent1:70
+rent2:200
+rent3:550
+rent4:750
+rent5:950
+house_cost:100
+hotel_cost:100
+mortgage_val:90
+/18/
+price:180
+rent0:14
+rent1:70
+rent2:200
+rent3:550
+rent4:750
+rent5:950
+house_cost:100
+hotel_cost:100
+mortgage_val:90
+/19/
+price:200
+rent0:16
+rent1:80
+rent2:220
+rent3:600
+rent4:800
+rent5:1000
+house_cost:100
+hotel_cost:100
+mortgage_val:100
+/21/
+price:220
+rent0:18
+rent1:90
+rent2:250
+rent3:700
+rent4:875
+rent5:1050
+house_cost:150
+hotel_cost:150
+mortgage_val:110
+/23/
+price:220
+rent0:18
+rent1:90
+rent2:250
+rent3:700
+rent4:875
+rent5:1050
+house_cost:150
+hotel_cost:150
+mortgage_val:110
+/24/
+price:240
+rent0:20
+rent1:100
+rent2:300
+rent3:750
+rent4:925
+rent5:1100
+house_cost:150
+hotel_cost:150
+mortgage_val:120
+/26/
+price:260
+rent0:22
+rent1:110
+rent2:330
+rent3:800
+rent4:975
+rent5:1150
+house_cost:150
+hotel_cost:150
+mortgage_val:130
+/27/
+price:260
+rent0:22
+rent1:110
+rent2:330
+rent3:800
+rent4:975
+rent5:1150
+house_cost:150
+hotel_cost:150
+mortgage_val:130
+/29/
+price:280
+rent0:24
+rent1:120
+rent2:360
+rent3:850
+rent4:1025
+rent5:1200
+house_cost:150
+hotel_cost:150
+mortgage_val:140
+/31/
+price:300
+rent0:26
+rent1:130
+rent2:390
+rent3:900
+rent4:1100
+rent5:1275
+house_cost:200
+hotel_cost:200
+mortgage_val:150
+/32/
+price:300
+rent0:26
+rent1:130
+rent2:390
+rent3:900
+rent4:1100
+rent5:1275
+house_cost:200
+hotel_cost:200
+mortgage_val:150
+/34/
+price:320
+rent0:28
+rent1:150
+rent2:450
+rent3:1000
+rent4:1200
+rent5:1400
+house_cost:200
+hotel_cost:200
+mortgage_val:160
+/37/
+price:350
+rent0:35
+rent1:175
+rent2:500
+rent3:1100
+rent4:1300
+rent5:1500
+house_cost:200
+hotel_cost:200
+mortgage_val:175
+/39/
+price:400
+rent0:50
+rent1:200
+rent2:600
+rent3:1400
+rent4:1700
+rent5:2000
+house_cost:200
+hotel_cost:200
+mortgage_val:200
+800,600
+Loading players data!
+Loading fields data!
+Start complete
+starting client
+/1/
+01391F90
+01391F90
+01391F90
+host resolving:localhost;7887
+price:60
+rent0:2
+rent1:10
+rent2:30
+rent3:90
+rent4:160
+rent5:250
+house_cost:50
+hotel_cost:50
+mortgage_val:30
+/3/
+price:60
+rent0:4
+rent1:20
+rent2:60
+rent3:180
+rent4:320
+rent5:450
+house_cost:50
+hotel_cost:50
+mortgage_val:30
+/6/
+price:100
+rent0:6
+rent1:30
+rent2:90
+rent3:270
+rent4:400
+rent5:550
+house_cost:50
+hotel_cost:50
+mortgage_val:50
+/8/
+price:100
+rent0:6
+rent1:30
+rent2:90
+rent3:270
+rent4:400
+rent5:550
+house_cost:50
+hotel_cost:50
+mortgage_val:50
+/9/
+price:120
+rent0:8
+rent1:40
+rent2:100
+rent3:300
+rent4:450
+rent5:600
+house_cost:50
+hotel_cost:50
+mortgage_val:60
+/11/
+price:140
+rent0:10
+rent1:50
+rent2:150
+rent3:450
+rent4:625
+rent5:750
+house_cost:100
+hotel_cost:100
+mortgage_val:70
+/13/
+price:140
+rent0:10
+rent1:50
+rent2:150
+rent3:450
+rent4:625
+rent5:750
+house_cost:100
+hotel_cost:100
+mortgage_val:70
+/14/
+price:160
+rent0:12
+rent1:60
+rent2:180
+rent3:500
+rent4:700
+rent5:900
+house_cost:100
+hotel_cost:100
+mortgage_val:80
+/16/
+price:180
+rent0:14
+rent1:70
+rent2:200
+rent3:550
+rent4:750
+rent5:950
+house_cost:100
+hotel_cost:100
+mortgage_val:90
+/18/
+price:180
+rent0:14
+rent1:70
+rent2:200
+rent3:550
+rent4:750
+rent5:950
+house_cost:100
+hotel_cost:100
+mortgage_val:90
+/19/
+price:200
+rent0:16
+rent1:80
+rent2:220
+rent3:600
+rent4:800
+rent5:1000
+house_cost:100
+hotel_cost:100
+mortgage_val:100
+/21/
+price:220
+rent0:18
+rent1:90
+rent2:250
+rent3:700
+rent4:875
+rent5:1050
+house_cost:150
+hotel_cost:150
+mortgage_val:110
+/23/
+price:220
+rent0:18
+rent1:90
+rent2:250
+rent3:700
+rent4:875
+rent5:1050
+house_cost:150
+hotel_cost:150
+mortgage_val:110
+/24/
+price:240
+rent0:20
+rent1:100
+rent2:300
+rent3:750
+rent4:925
+rent5:1100
+house_cost:150
+hotel_cost:150
+mortgage_val:120
+/26/
+price:260
+rent0:22
+rent1:110
+rent2:330
+rent3:800
+rent4:975
+rent5:1150
+house_cost:150
+hotel_cost:150
+mortgage_val:130
+/27/
+price:260
+rent0:22
+rent1:110
+rent2:330
+rent3:800
+rent4:975
+rent5:1150
+house_cost:150
+hotel_cost:150
+mortgage_val:130
+/29/
+price:280
+rent0:24
+rent1:120
+rent2:360
+rent3:850
+rent4:1025
+rent5:1200
+house_cost:150
+hotel_cost:150
+mortgage_val:140
+/31/
+price:300
+rent0:26
+rent1:130
+rent2:390
+rent3:900
+rent4:1100
+rent5:1275
+house_cost:200
+hotel_cost:200
+mortgage_val:150
+/32/
+price:300
+rent0:26
+rent1:130
+rent2:390
+rent3:900
+rent4:1100
+rent5:1275
+house_cost:200
+hotel_cost:200
+mortgage_val:150
+/34/
+price:320
+rent0:28
+rent1:150
+rent2:450
+rent3:1000
+rent4:1200
+rent5:1400
+house_cost:200
+hotel_cost:200
+mortgage_val:160
+/37/
+price:350
+rent0:35
+rent1:175
+rent2:500
+rent3:1100
+rent4:1300
+rent5:1500
+house_cost:200
+hotel_cost:200
+mortgage_val:175
+/39/
+price:400
+rent0:50
+rent1:200
+rent2:600
+rent3:1400
+rent4:1700
+rent5:2000
+house_cost:200
+hotel_cost:200
+mortgage_val:200
+Server started!
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+0,1
+Updated!264
+0022F848,0022F78D,264
+transmitted!
+starting client
+031DED60
+031DED60
+031DED60
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+1,2
+Updated!264
+Accepted Имярек   !
+1!
+Socket saved for 0
+Players update!
+2,3
+Updated!264
+Players update!
+2!264
+Server thread 0 started!
+3,3
+0022F848,0022F78D,264
+transmitted!
+starting client
+03342820
+03342820
+03342820
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+3,4
+Updated!264
+Accepted Имярек   !
+1!
+Socket saved for 1
+Players update!
+Players update!
+2!264
+Server thread 1 started!
+4,5
+Players update!
+Updated!264
+5,5
+5,5
+0022F848,0022F78D,264
+P...
+transmitted!
+starting client
+03475D80
+03475D80
+03475D80
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+5,6
+Updated!264
+Accepted Имярек   !
+1!
+Socket saved for 2
+Players update!
+Players update!
+Players update!
+2!264
+Server thread 2 started!
+049BF8BC,049BF801,264
+transmitted!
+starting client
+6,7
+Updated!264
+Players update!
+034B6068
+034B6068
+034B6068
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+Accepted Имярек   !
+1!
+2!264
+Server thread 3 started!
+7,7
+Players update!
+7,7
+Players update!
+7,7
+Socket saved for 3
+Players update!
+7,8
+Updated!264
+Players update!
+8,9
+Updated!264
+Players update!
+9,9
+9,9
+9,9
+9,9
+P...
+0022F848,0022F78D,264
+transmitted!
+starting client
+035F84D0
+035F84D0
+035F84D0
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+9,10
+Updated!264
+Accepted Имярек   !
+1!
+Socket saved for 4
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+2!264
+Server thread 4 started!
+10,11
+Updated!264
+Players update!
+11,11
+11,11
+11,11
+11,11
+11,11
+0022F848,0022F78D,264
+P...
+transmitted!
+starting client
+037C1A60
+037C1A60
+037C1A60
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+11,12
+Updated!264
+Accepted Имярек   !
+1!
+Socket saved for 5
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+2!264
+Server thread 5 started!
+12,13
+Updated!264
+Players update!
+13,13
+13,13
+13,13
+13,13
+13,13
+13,13
+0022F848,0022F78D,264
+P...
+transmitted!
+starting client
+03914FD8
+03914FD8
+03914FD8
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+13,14
+Updated!264
+Accepted Имярек   !
+1!
+Socket saved for 6
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+2!264
+Server thread 6 started!
+14,15
+Updated!264
+Players update!
+15,15
+15,15
+15,15
+15,15
+15,15
+15,15
+15,15
+0022F848,0022F78D,264
+P...
+transmitted!
+starting client
+039A21A0
+039A21A0
+039A21A0
+host resolving:localhost;7887
+host resolved:16777343d;53022d
+Connected!
+8
+New client!
+Players update!
+15,16
+Updated!264
+Accepted Имярек   !
+1!
+Socket saved for 7
+Players update!
+Players update!
+Players update!
+Players update!
+2!264
+Players update!
+Players update!
+Players update!
+Players update!
+Game started!
+cp-0
+SERVER:8
+-1
+Server thread 7 started!
+16,17
+Updated!264
+Players update!
+17,17
+17,17
+17,17
+17,17
+17,17
+17,17
+17,17
+17,17
+18
+I paint!2
+CLIENT:8
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+18,19
+Updated!264
+19,19
+19,19
+19,19
+19,19
+19,19
+Players update!
+19,19
+P...
+location: 8
+Players update!
+19,19
+P...
+7
+OWNED:100
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+20,21
+Updated!264
+Players update!
+21,21
+21,21
+21,21
+21,21
+21,21
+21,21
+21,21
+P...
+player:0
+2
+Acknowledged!
+money:1400
+cp-1
+SERVER:6
+-1
+22
+I paint!0
+CLIENT:6
+Players update!
+22,23
+Updated!264
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+23,23
+23,23
+23,23
+23,23
+23,23
+23,23
+location: 6
+Players update!
+23,23
+7
+OWNED:100
+Players update!
+24,25
+Updated!264
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+25,25
+25,25
+25,25
+25,25
+25,25
+25,25
+25,25
+player:1
+P...
+2
+Acknowledged!
+money:1400
+cp-2
+SERVER:12
+-1
+26
+I paint!0
+CLIENT:12
+Players update!
+26,27
+Updated!264
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+27,27
+27,27
+27,27
+27,27
+27,27
+27,27
+P...
+location: 12
+Players update!
+27,27
+P...
+7
+OWNED:150
+Players update!
+28,29
+Updated!264
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+Players update!
+29,29
+29,29
+29,29
+29,29
+29,29
+29,29
+29,29
+P...
+P...
+Client exited!
+money:1350
+Server thread terminated
+Server exited!
